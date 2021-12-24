@@ -4,4 +4,4 @@
   <img src="/imags/Generic_conn.jpg" />
 </p>
 
-https://github.com/ROBOTICronics/Light-Emitting-Diodes-Flavours/blob/main/ROBOTICronics/imags/Generic_conn.jpg
+https://github.com/ROBOTICronics/imags/Generic_conn.jpg
